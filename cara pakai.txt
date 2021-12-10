@@ -1,0 +1,2 @@
+buka akun isi private key dan alamat address kalian jika sudah save
+ketik python .\bsc.py -n (isi nominal tanpa tanda kurung) -w (isi gwei disarankan 7 ,tanpa tanda kurung) -a (isi address , tanpa tanda kurung)
